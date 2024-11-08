@@ -1,0 +1,524 @@
+Ticker,Country,Indices,Industries,Name
+LIN,United Kingdom,"S&P 500, S&P 100","Commodity Chemicals, Basic Materials, Chemicals",Linde PLC
+AZN,United Kingdom,NASDAQ 100,"Pharmaceuticals, Pharmaceuticals & Medical Research, Healthcare",AstraZeneca PLC
+CCL,United Kingdom,S&P 500,"Hotels & Entertainment Services, Cyclical Consumer Services, Hotels, Motels & Cruise Lines, Consumer Cyclicals",Carnival Corporation
+SSE,United Kingdom,S&P 500,"Electric Utilities, Electric Utilities & IPPs, Utilities",STERIS PLC
+MMM,United States,"S&P 500, S&P 100, DOW JONES","Industrials, Industrial Conglomerates",3M Company
+AXP,United States,"S&P 500, S&P 100, DOW JONES","Banking & Investment Services, Banking Services, Financials, Consumer Lending",American Express Company
+AAPL,United States,"S&P 500, S&P 100, DOW JONES, NASDAQ 100","Computers, Phones & Household Electronics, Technology, Technology Equipment, Phones & Handheld Devices",Apple Inc.
+BA,United States,"S&P 500, S&P 100, DOW JONES","Industrial Goods, Industrials, Aerospace & Defense",The Boeing Company
+CAT,United States,"S&P 500, S&P 100, DOW JONES","Industrial Goods, Industrials, Heavy Machinery & Vehicles, Machinery, Equipment & Components",Caterpillar Inc.
+CVX,United States,"S&P 500, S&P 100, DOW JONES","Energy, Fossil Fuels, Oil & Gas",Chevron Corporation
+CSCO,United States,"S&P 500, S&P 100, DOW JONES, NASDAQ 100","Technology, Technology Equipment, Communications & Networking",Cisco Systems Inc.
+KO,United States,"S&P 500, S&P 100, DOW JONES","Food & Beverages, Consumer Non-Cyclicals, Beverages, Non-Alcoholic Beverages",The Coca-Cola Company
+DOW,United States,S&P 500,"Commodity Chemicals, Basic Materials, Chemicals",DowDuPont Inc.
+XOM,United States,"S&P 500, S&P 100","Energy, Fossil Fuels, Oil & Gas",Exxon Mobil Corporation
+GS,United States,"S&P 500, S&P 100, DOW JONES","Banking & Investment Services, Investment Banking & Investment Services, Financials, Investment Banking & Brokerage Services",The Goldman Sachs Group Inc.
+HD,United States,"S&P 500, S&P 100, DOW JONES","Retailers, Specialty Retailers, Home Improvement Products & Services Retailers, Consumer Cyclicals",The Home Depot Inc.
+IBM,United States,"S&P 500, S&P 100, DOW JONES","Technology, Software & IT Services, IT Services & Consulting",International Business Machines Corporation
+INTC,United States,"S&P 500, S&P 100, DOW JONES, NASDAQ 100","Technology, Technology Equipment, Semiconductors & Semiconductor Equipment, Semiconductors",Intel Corporation
+JNJ,United States,"S&P 500, S&P 100, DOW JONES","Pharmaceuticals, Pharmaceuticals & Medical Research, Healthcare",Johnson & Johnson
+JPM,United States,"S&P 500, S&P 100, DOW JONES","Banking & Investment Services, Banking Services, Financials, Banks",JPMorgan Chase & Co.
+MCD,United States,"S&P 500, S&P 100, DOW JONES","Hotels & Entertainment Services, Restaurants & Bars, Cyclical Consumer Services, Consumer Cyclicals",McDonald's Corporation
+NKE,United States,"S&P 500, S&P 100, DOW JONES","Apparel, Accessories, Sports equipment","Nike, Inc."
+MRK,United States,"S&P 500, S&P 100, DOW JONES","Pharmaceuticals, Pharmaceuticals & Medical Research, Healthcare",Merck & Co. Inc.
+MSFT,United States,"S&P 500, S&P 100, DOW JONES, NASDAQ 100","Software, Technology, Software & IT Services",Microsoft Corporation
+PFE,United States,"S&P 500, S&P 100","Pharmaceuticals, Pharmaceuticals & Medical Research, Healthcare",Pfizer Inc.
+PG,United States,"S&P 500, S&P 100, DOW JONES","Consumer Non-Cyclicals, Personal Products, Personal & Household Products & Services",The Procter & Gamble Company
+TRV,United States,"S&P 500, DOW JONES","Insurance, Property & Casualty Insurance, Financials",The Travelers Companies Inc.
+UNH,United States,"S&P 500, S&P 100, DOW JONES","Managed Health care, Healthcare, Healthcare Providers & Services, Healthcare Services",UnitedHealth Group Inc.
+VZ,United States,"S&P 500, S&P 100, DOW JONES","Telecommunications Services, Integrated Telecommunications Services",Verizon Communications Inc.
+V,United States,"S&P 500, S&P 100, DOW JONES","Technology, Software & IT Services, Internet Services",Visa Inc.
+WMT,United States,"S&P 500, S&P 100, DOW JONES","Consumer Non-Cyclicals, Food & Drug Retailing, Food Retail & Distribution",Walmart Inc.
+WBA,United States,"S&P 500, S&P 100, DOW JONES, NASDAQ 100","Consumer Non-Cyclicals, Food & Drug Retailing, Drug Retailers",Walgreens Boots Alliance Inc.
+DIS,United States,"S&P 500, S&P 100, DOW JONES","Media & Publishing, Cyclical Consumer Services, Broadcasting, Consumer Cyclicals",The Walt Disney Company
+ATVI,United States,"S&P 500, NASDAQ 100","Technology, Software & IT Services, Internet Services",Activision Blizzard Inc.
+ADBE,United States,"S&P 500, S&P 100, NASDAQ 100","Software, Technology, Software & IT Services",Adobe Inc.
+AKAM,United States,S&P 500,"Technology, Software & IT Services, IT Services & Consulting",Akamai Technologies Inc.
+GOOGL,United States,"S&P 500, S&P 100, NASDAQ 100","Technology, Software & IT Services, Internet Services",Alphabet Inc.
+AMZN,United States,"S&P 500, S&P 100, NASDAQ 100","Diversified Retail, Retailers, Department Stores, Consumer Cyclicals",Amazon.com Inc.
+AAL,United States,S&P 500,"Passenger Transportation Services, Industrials, Airlines, Transportation",American Airlines Group Inc.
+AMGN,United States,"S&P 500, S&P 100, DOW JONES, NASDAQ 100","Pharmaceuticals, Pharmaceuticals & Medical Research, Healthcare",Amgen Inc.
+ADI,United States,"S&P 500, NASDAQ 100","Technology, Technology Equipment, Semiconductors & Semiconductor Equipment, Semiconductors",Analog Devices Inc.
+AMAT,United States,"S&P 500, NASDAQ 100","Semiconductor Equipment & Testing, Technology, Technology Equipment, Semiconductors & Semiconductor Equipment",Applied Materials Inc.
+ADSK,United States,"S&P 500, NASDAQ 100","Software, Technology, Software & IT Services",Autodesk Inc.
+ADP,United States,"S&P 500, NASDAQ 100","Technology, Software & IT Services, IT Services & Consulting",Automatic Data Processing Inc.
+BIDU,China,NASDAQ 100,"Technology, Software & IT Services, Internet Services",Baidu Inc.
+BIIB,United States,"S&P 500, NASDAQ 100","Pharmaceuticals, Pharmaceuticals & Medical Research, Healthcare",Biogen Inc.
+CHTR,United States,"S&P 500, S&P 100, NASDAQ 100","Media & Publishing, Cyclical Consumer Services, Broadcasting, Consumer Cyclicals",Charter Communications Inc.
+CTSH,United States,"S&P 500, NASDAQ 100","Technology, Software & IT Services, IT Services & Consulting",Cognizant Technology Solutions Corporation
+CMCSA,United States,"S&P 500, S&P 100, NASDAQ 100","Media & Publishing, Cyclical Consumer Services, Broadcasting, Consumer Cyclicals",Comcast Corporation
+COST,United States,"S&P 500, S&P 100, NASDAQ 100","Diversified Retail, Retailers, Discount Stores, Consumer Cyclicals",Costco Wholesale Corporation
+CSX,United States,"S&P 500, NASDAQ 100","Ground Freight & Logistics, Industrials, Freight & Logistics Services, Transportation",CSX Corporation
+XRAY,United States,S&P 500,"Medical Equipment, Supplies & Distribution, Healthcare, Healthcare Services, Healthcare Equipment & Supplies",Dentyply Sirona Inc.
+DISH,United States,S&P 500,"Media & Publishing, Cyclical Consumer Services, Broadcasting, Consumer Cyclicals",DISH Network Corporation
+DLTR,United States,"S&P 500, NASDAQ 100","Diversified Retail, Retailers, Discount Stores, Consumer Cyclicals",Dollar Tree Inc.
+EBAY,United States,"S&P 500, NASDAQ 100","Technology, Software & IT Services, Internet Services",eBay Inc.
+EA,United States,"S&P 500, NASDAQ 100","Software, Technology, Software & IT Services",Electronic Arts Inc.
+EXPE,United States,S&P 500,"Hotels & Entertainment Services, Leisure & Recreation, Cyclical Consumer Services, Consumer Cyclicals",Expedia Group Inc.
+FAST,United States,"S&P 500, NASDAQ 100","Industrial Goods, Industrials, Machinery, Equipment & Components, Industrial Machinery & Equipment",Fastenal Company
+FISV,United States,"S&P 500, NASDAQ 100","Business Support Services, Industrials, Professional & Commercial Services, Industrial & Commercial Services",Fiserv Inc.
+GILD,United States,"S&P 500, S&P 100, NASDAQ 100","Biotechnology & Medical Research, Pharmaceuticals & Medical Research, Healthcare",Gilead Sciences Inc.
+HSIC,United States,S&P 500,"Medical Equipment, Supplies & Distribution, Healthcare, Healthcare Services, Healthcare Equipment & Supplies",Henry Schein Inc.
+ILMN,United States,"S&P 500, NASDAQ 100","Healthcare, Advanced Medical Equipment & Technology, Healthcare Services, Healthcare Equipment & Supplies",Illumina Inc.
+INCY,United States,S&P 500,"Biotechnology & Medical Research, Pharmaceuticals & Medical Research, Healthcare",Incyte Corporation
+INTU,United States,"S&P 500, NASDAQ 100","Software, Technology, Software & IT Services",Intuit Inc.
+ISRG,United States,"S&P 500, NASDAQ 100","Healthcare, Advanced Medical Equipment & Technology, Healthcare Services, Healthcare Equipment & Supplies",Intuitive Surgical Inc.
+JD,China,NASDAQ 100,"Technology, Software & IT Services, Internet Services",JD.com Inc.
+KHC,United States,"S&P 500, S&P 100, NASDAQ 100","Food & Beverages, Consumer Non-Cyclicals, Food Processing, Food & Tobacco",The Kraft Heinz Company
+LRCX,United States,"S&P 500, NASDAQ 100","Semiconductor Equipment & Testing, Technology, Technology Equipment, Semiconductors & Semiconductor Equipment",Lam Research Corporation
+MAR,United States,"S&P 500, NASDAQ 100","Hotels & Entertainment Services, Cyclical Consumer Services, Hotels, Motels & Cruise Lines, Consumer Cyclicals",Marriott International Inc.
+MCHP,United States,"S&P 500, NASDAQ 100","Technology, Technology Equipment, Semiconductors & Semiconductor Equipment, Semiconductors",Microchip Technology Inc.
+MU,United States,"S&P 500, NASDAQ 100","Technology, Technology Equipment, Semiconductors & Semiconductor Equipment, Semiconductors",Micron Technology Inc.
+MDLZ,United States,"S&P 500, S&P 100, NASDAQ 100","Food & Beverages, Consumer Non-Cyclicals, Food Processing, Food & Tobacco",Mondelez International Inc.
+MNST,United States,"S&P 500, NASDAQ 100","Food & Beverages, Consumer Non-Cyclicals, Beverages, Non-Alcoholic Beverages",Monster Beverage Corporation
+NTAP,United States,S&P 500,"Computers, Phones & Household Electronics, Technology, Technology Equipment, Computer Hardware",NetApp Inc.
+NTES,China,NASDAQ 100,"Technology, Software & IT Services, IT Services & Consulting",NetEase Inc.
+NFLX,United States,"S&P 500, S&P 100, NASDAQ 100","Technology, Software & IT Services, Internet Services",Netflix Inc.
+NVDA,United States,"S&P 500, S&P 100, NASDAQ 100","Technology, Technology Equipment, Semiconductors & Semiconductor Equipment, Semiconductors",NVIDIA Corporation
+NXPI,Netherlands,"S&P 500, NASDAQ 100","Technology, Technology Equipment, Semiconductors & Semiconductor Equipment, Semiconductors",NXP Semiconductors N.V.
+ORLY,United States,"S&P 500, NASDAQ 100","Auto Vehicles, Parts & Service Retailers, Retailers, Specialty Retailers, Consumer Cyclicals",O'Reilly Automotive Inc.
+PCAR,United States,"S&P 500, NASDAQ 100","Industrial Goods, Industrials, Heavy Machinery & Vehicles, Machinery, Equipment & Components",PACCAR Inc
+PAYX,United States,"S&P 500, NASDAQ 100","Industrials, Professional & Commercial Services, Employment Services, Industrial & Commercial Services",Paychex Inc.
+PYPL,United States,"S&P 500, S&P 100, NASDAQ 100","Technology, Software & IT Services, Internet Services",PayPal Holdings Inc.
+QCOM,United States,"S&P 500, S&P 100, NASDAQ 100","Technology, Technology Equipment, Semiconductors & Semiconductor Equipment, Semiconductors",Qualcomm Inc.
+REGN,United States,"S&P 500, NASDAQ 100","Biotechnology & Medical Research, Pharmaceuticals & Medical Research, Healthcare",Regeneron Pharmaceuticals Inc.
+ROST,United States,"S&P 500, NASDAQ 100","Retailers, Apparel & Accessories Retailers, Specialty Retailers, Consumer Cyclicals",Ross Stores Inc.
+STX,Ireland,S&P 500,"Computers, Phones & Household Electronics, Technology, Technology Equipment, Computer Hardware",Seagate Technology PLC
+SIRI,United States,NASDAQ 100,"Media & Publishing, Cyclical Consumer Services, Broadcasting, Consumer Cyclicals",Sirius XM Holdings Inc.
+SWKS,United States,"S&P 500, NASDAQ 100","Technology, Technology Equipment, Semiconductors & Semiconductor Equipment, Semiconductors",Skyworks Solutions Inc.
+SBUX,United States,"S&P 500, S&P 100, NASDAQ 100","Hotels & Entertainment Services, Restaurants & Bars, Cyclical Consumer Services, Consumer Cyclicals",Starbucks Corporation
+TMUS,United States,"S&P 500, S&P 100, NASDAQ 100","Telecommunications Services, Wireless Telecommunications Services",T-Mobile US Inc.
+TSLA,United States,"S&P 500, S&P 100, NASDAQ 100","Auto & Truck Manufacturers, Automobiles & Auto Parts, Consumer Cyclicals",Tesla Inc.
+TXN,United States,"S&P 500, S&P 100, NASDAQ 100","Technology, Technology Equipment, Semiconductors & Semiconductor Equipment, Semiconductors",Texas Instruments Inc.
+TSCO,United States,S&P 500,"Other Specialty Retailers, Retailers, Specialty Retailers, Consumer Cyclicals",Tractor Supply Company
+ULTA,United States,S&P 500,"Other Specialty Retailers, Retailers, Specialty Retailers, Consumer Cyclicals",Ulta Beauty Inc.
+VRSK,United States,"S&P 500, NASDAQ 100","Technology, Software & IT Services, IT Services & Consulting",Verisk Analytics Inc.
+VRTX,United States,"S&P 500, NASDAQ 100","Biotechnology & Medical Research, Pharmaceuticals & Medical Research, Healthcare",Vertex Pharmaceuticals Inc.
+WDC,United States,S&P 500,"Computers, Phones & Household Electronics, Technology, Technology Equipment, Computer Hardware",Western Digital Corporation
+ABT,United States,"S&P 500, S&P 100","Medical Equipment, Supplies & Distribution, Healthcare, Healthcare Services, Healthcare Equipment & Supplies",Abbott Laboratories
+ABBV,United States,"S&P 500, S&P 100","Pharmaceuticals, Pharmaceuticals & Medical Research, Healthcare",AbbVie Inc.
+ACN,Ireland,"S&P 500, S&P 100","Technology, Software & IT Services, IT Services & Consulting",Accenture PLC
+ALL,United States,S&P 500,"Insurance, Property & Casualty Insurance, Financials",The Allstate Corporation
+MO,United States,"S&P 500, S&P 100","Food & Beverages, Consumer Non-Cyclicals, Tobacco, Food & Tobacco",Altria Group Inc.
+AIG,United States,"S&P 500, S&P 100","Insurance, Financials, Multiline Insurance & Brokers",American International Group Inc.
+T,United States,"S&P 500, S&P 100","Telecommunications Services, Wireless Telecommunications Services",AT&T Inc
+BAC,United States,"S&P 500, S&P 100","Banking & Investment Services, Banking Services, Financials, Banks",Bank of America Corporation
+BK,United States,"S&P 500, S&P 100","Banking & Investment Services, Investment Banking & Investment Services, Financials, Investment Management & Fund Operators",The Bank of New York Mellon Corporation
+BRK-B,United States,"S&P 500, S&P 100","Insurance, Financials, Multiline Insurance & Brokers",Berkshire Hathaway Inc.
+BLK,United States,"S&P 500, S&P 100","Banking & Investment Services, Investment Banking & Investment Services, Financials, Investment Management & Fund Operators",BlackRock Inc.
+BKNG,United States,"S&P 500, S&P 100, NASDAQ 100","Hotels & Entertainment Services, Leisure & Recreation, Cyclical Consumer Services, Consumer Cyclicals",Booking Holdings Inc.
+BMY,United States,"S&P 500, S&P 100","Pharmaceuticals, Pharmaceuticals & Medical Research, Healthcare",Bristol-Myers Squibb Company
+COF,United States,"S&P 500, S&P 100","Banking & Investment Services, Banking Services, Financials, Consumer Lending",Capital One Financial Corporation
+C,United States,"S&P 500, S&P 100","Banking & Investment Services, Banking Services, Financials, Banks",Citigroup Inc.
+CL,United States,"S&P 500, S&P 100","Consumer Non-Cyclicals, Personal Products, Personal & Household Products & Services",Colgate-Palmolive Company
+COP,United States,"S&P 500, S&P 100","Energy, Fossil Fuels, Oil & Gas, Oil & Gas Exploration and Production",ConocoPhillips
+CVS,United States,"S&P 500, S&P 100","Healthcare, Healthcare Providers & Services, Healthcare Facilities & Services, Healthcare Services",CVS Health Corporation
+DHR,United States,"S&P 500, S&P 100","Healthcare, Advanced Medical Equipment & Technology, Healthcare Services, Healthcare Equipment & Supplies",Danaher Corporation
+DUK,United States,"S&P 500, S&P 100","Electric Utilities, Electric Utilities & IPPs, Utilities",Duke Energy Corporation
+LLY,United States,"S&P 500, S&P 100","Pharmaceuticals, Pharmaceuticals & Medical Research, Healthcare",Eli Lilly and Company
+EMR,United States,"S&P 500, S&P 100","Industrial Goods, Industrials, Machinery, Equipment & Components, Electrical Components & Equipment",Emerson Electric Co.
+EXC,United States,"S&P 500, S&P 100, NASDAQ 100","Electric Utilities, Electric Utilities & IPPs, Utilities",Exelon Corporation
+FDX,United States,"S&P 500, S&P 100","Industrials, Air Freight & Courier Services, Freight & Logistics Services, Transportation",FedEx Corporation
+F,United States,"S&P 500, S&P 100","Auto & Truck Manufacturers, Automobiles & Auto Parts, Consumer Cyclicals",Ford Motor Company
+GE,United States,"S&P 500, S&P 100",,General Electric Company
+GM,United States,"S&P 500, S&P 100","Telecommunications Services, Discount Stores, Consumer Non-Cyclicals, Retailers, Integrated Telecommunications Services, Food & Tobacco, Food & Beverages, Food Processing, Diversified Retail, Consumer Cyclicals",General Motors Company
+HON,United States,"S&P 500, S&P 100, DOW JONES, NASDAQ 100","Industrials, Industrial Conglomerates",Honeywell International Inc.
+KMI,United States,S&P 500,"Energy, Fossil Fuels, Oil & Gas Transportation Services, Oil & Gas Related Equipment and Services",Kinder Morgan Inc.
+LOW,United States,"S&P 500, S&P 100","Retailers, Specialty Retailers, Home Improvement Products & Services Retailers, Consumer Cyclicals",Lowe's Companies Inc.
+MA,United States,"S&P 500, S&P 100","Technology, Software & IT Services, Internet Services",Mastercard Inc.
+MDT,Ireland,"S&P 500, S&P 100","Medical Equipment, Supplies & Distribution, Healthcare, Healthcare Services, Healthcare Equipment & Supplies",Medtronic PLC
+MET,United States,"S&P 500, S&P 100","Insurance, Financials, Life & Health Insurance",MetLife Inc.
+MS,United States,"S&P 500, S&P 100","Banking & Investment Services, Investment Banking & Investment Services, Financials, Investment Banking & Brokerage Services",Morgan Stanley
+NEE,United States,"S&P 500, S&P 100","Electric Utilities, Electric Utilities & IPPs, Utilities",NextEra Energy Inc.
+OXY,United States,S&P 500,"Energy, Fossil Fuels, Oil & Gas, Oil & Gas Exploration and Production",Occidental Petroleum Corporation
+ORCL,United States,"S&P 500, S&P 100","Software, Technology, Software & IT Services",Oracle Corporation
+PM,Netherlands,"S&P 500, S&P 100","Healthcare, Advanced Medical Equipment & Technology, Healthcare Services, Healthcare Equipment & Supplies",Philip Morris International Inc.
+RTN,United States,"S&P 500, S&P 100","Industrial Goods, Industrials, Aerospace & Defense",Raytheon Company
+SLB,United States,S&P 500,"Energy, Fossil Fuels, Oil Related Services and Equipment, Oil & Gas Related Equipment and Services",Schlumberger Limited
+SPG,United States,"S&P 500, S&P 100","Commercial REITs, Real Estate, Financials, Residential & Commercial RETIs",Simon Property Group Inc.
+SO,United States,"S&P 500, S&P 100","Electric Utilities, Electric Utilities & IPPs, Utilities",Southern Company
+TGT,United States,"S&P 500, S&P 100","Diversified Retail, Retailers, Discount Stores, Consumer Cyclicals",Target Corporation
+UNP,United States,"S&P 500, S&P 100","Ground Freight & Logistics, Industrials, Freight & Logistics Services, Transportation",Union Pacific Corporation
+UPS,United States,"S&P 500, S&P 100","Industrial Goods, Industrials, Aerospace & Defense",United Parcel Service Inc.
+USB,United States,"S&P 500, S&P 100","Banking & Investment Services, Banking Services, Financials, Banks",U.S. Bancorp
+WFC,United States,"S&P 500, S&P 100","Banking & Investment Services, Banking Services, Financials, Banks",Wells Fargo & Company
+ABMD,United States,S&P 500,"Healthcare, Advanced Medical Equipment & Technology, Healthcare Services, Healthcare Equipment & Supplies",Abiomed Inc.
+AAP,United States,S&P 500,"Auto Vehicles, Parts & Service Retailers, Retailers, Specialty Retailers, Consumer Cyclicals",Advance Auto Parts Inc.
+AMD,United States,"S&P 500, S&P 100, NASDAQ 100","Environmental Services & Equipment, Industrials, Professional & Commercial Services, Industrial & Commercial Services",Advanced Micro Devices Inc.
+AES,United States,S&P 500,"Electric Utilities, Electric Utilities & IPPs, Utilities",The AES Corporation
+AFL,United States,S&P 500,"Insurance, Financials, Life & Health Insurance",Aflac Inc.
+A,United States,S&P 500,"Healthcare, Advanced Medical Equipment & Technology, Healthcare Services, Healthcare Equipment & Supplies",Agilent Technologies Inc.
+APD,United States,S&P 500,"Commodity Chemicals, Basic Materials, Chemicals",Air Products and Chemicals Inc.
+ALK,United States,S&P 500,"Passenger Transportation Services, Industrials, Airlines, Transportation",Alaska Air Group Inc.
+ALB,United States,S&P 500,"Commodity Chemicals, Basic Materials, Chemicals",Albemarle Corporation
+ARE,United States,S&P 500,"Commercial REITs, Real Estate, Financials, Residential & Commercial RETIs",Alexandria Real Estate Equities Inc.
+ALGN,United States,"S&P 500, NASDAQ 100","Medical Equipment, Supplies & Distribution, Healthcare, Healthcare Services, Healthcare Equipment & Supplies",Align Technology Inc.
+ALLE,Ireland,S&P 500,"Technology, Technology Equipment, Communications & Networking",Allegion PLC
+AEE,United States,S&P 500,"Multiline Utilities, Utilities",Ameren Corporation
+AEP,United States,"S&P 500, NASDAQ 100","Electric Utilities, Electric Utilities & IPPs, Utilities",American Electric Power Company Inc.
+AMT,United States,"S&P 500, S&P 100","Specialized REITs, Real Estate, Financials, Residential & Commercial RETIs",American Tower Corporation
+AWK,United States,S&P 500,"Water Utilities, Utilities",American Water Works Company Inc.
+AMP,United States,S&P 500,"Banking & Investment Services, Investment Banking & Investment Services, Financials, Investment Management & Fund Operators",Ameriprise Financial Inc.
+ABC,United States,S&P 500,"Consumer Non-Cyclicals, Food & Drug Retailing, Drug Retailers",AmerisourceBergen Corporation
+AME,United States,S&P 500,"Industrial Goods, Industrials, Machinery, Equipment & Components, Electrical Components & Equipment",AMETEK Inc.
+APH,United States,S&P 500,"Technology, Technology Equipment, Electronic Equipments & Parts",Amphenol Corporation
+ANSS,United States,"S&P 500, NASDAQ 100","Software, Technology, Software & IT Services",ANSYS Inc.
+AOS,United States,S&P 500,"Industrial Goods, Industrials, Machinery, Equipment & Components, Electrical Components & Equipment",A. O. Smith Corporation
+AON,United Kingdom,S&P 500,"Insurance, Financials, Multiline Insurance & Brokers",Aon PLC
+APA,United States,S&P 500,"Energy, Fossil Fuels, Oil & Gas, Oil & Gas Exploration and Production",Apache Corporation
+APTV,United States,S&P 500,"Software, Technology, Software & IT Services",Aptiv PLC
+ADM,United States,S&P 500,"Food & Beverages, Consumer Non-Cyclicals, Food Processing, Food & Tobacco",Archer-Daniels-Midland Company
+ANET,United States,S&P 500,"Technology, Technology Equipment, Communications & Networking",Arista Networks Inc.
+AJG,United States,S&P 500,"Insurance, Financials, Multiline Insurance & Brokers",Arthur J. Gallagher & Co.
+AIZ,United States,S&P 500,"Insurance, Financials, Multiline Insurance & Brokers",Assurant Inc.
+ATO,United States,S&P 500,"Natural Gas Utilities, Utilities",Atmos Energy Corporation
+AZO,United States,S&P 500,"Auto Vehicles, Parts & Service Retailers, Retailers, Specialty Retailers, Consumer Cyclicals",AutoZone Inc.
+AVB,United States,S&P 500,"Real Estate, Financials, Residential REITs, Residential & Commercial RETIs",AvalonBay Communities Inc.
+AVY,United States,S&P 500,"Non-Paper Containers & Packaging, Basic Materials, Containers & Packaging, Applied Resources",Avery Dennison Corporation
+BKR,United States,S&P 500,Hydrocarbon exploration,Baker Hughes Company
+BLL,United States,S&P 500,"Non-Paper Containers & Packaging, Basic Materials, Containers & Packaging, Applied Resources",Ball Corporation
+BAX,United States,S&P 500,"Medical Equipment, Supplies & Distribution, Healthcare, Healthcare Services, Healthcare Equipment & Supplies",Baxter International Inc.
+BDX,United States,S&P 500,"Medical Equipment, Supplies & Distribution, Healthcare, Healthcare Services, Healthcare Equipment & Supplies","Becton, Dickinson and Company"
+BBY,United States,S&P 500,"Computer & Electronics Retailers, Retailers, Specialty Retailers, Consumer Cyclicals",Best Buy Co. Inc.
+BWA,United States,S&P 500,"Auto, Truck & Motorcycle Parts, Automobiles & Auto Parts, Consumer Cyclicals",BorgWarner Inc.
+BXP,United States,S&P 500,"Commercial REITs, Real Estate, Financials, Residential & Commercial RETIs",Boston Properties Inc.
+BSX,United States,S&P 500,"Healthcare, Advanced Medical Equipment & Technology, Healthcare Services, Healthcare Equipment & Supplies",Boston Scientific Corporation
+AVGO,United States,"S&P 500, S&P 100, NASDAQ 100","Technology, Technology Equipment, Semiconductors & Semiconductor Equipment, Semiconductors",Broadcom Inc.
+BR,United States,S&P 500,"Professional Information Services, Industrials, Professional & Commercial Services, Industrial & Commercial Services",Broadridge Financial Solutions Inc.
+BF-B,United States,S&P 500,"Food & Beverages, Consumer Non-Cyclicals, Beverages, Distillers & Wineries",Brown-Forman Corporation
+CHRW,United States,S&P 500,"Ground Freight & Logistics, Industrials, Freight & Logistics Services, Transportation",C.H. Robinson Worldwide Inc.
+CDNS,United States,"S&P 500, NASDAQ 100","Software, Technology, Software & IT Services",Cadence Design Systems Inc.
+CPB,United States,S&P 500,"Food & Beverages, Consumer Non-Cyclicals, Food Processing, Food & Tobacco",Campbell Soup Company
+CAH,United States,S&P 500,"Consumer Non-Cyclicals, Food & Drug Retailing, Drug Retailers",Cardinal Health Inc.
+KMX,United States,S&P 500,"Auto Vehicles, Parts & Service Retailers, Retailers, Specialty Retailers, Consumer Cyclicals",CarMax Inc.
+CBRE,United States,S&P 500,"Real Estate Services, Real Estate, Financials, Real Estate Operations",CBRE Group Inc.
+CE,United States,S&P 500,"Commodity Chemicals, Basic Materials, Chemicals",Celanese Corporation
+CNC,United States,S&P 500,"Managed Health care, Healthcare, Healthcare Providers & Services, Healthcare Services",Centene Corporation
+CNP,United States,S&P 500,"Multiline Utilities, Utilities",CenterPoint Energy Inc.
+CF,United States,S&P 500,"Agricultural Chemicals, Basic Materials, Chemicals",CF Industries Holdings Inc.
+CMG,United States,S&P 500,"Hotels & Entertainment Services, Restaurants & Bars, Cyclical Consumer Services, Consumer Cyclicals",Chipotle Mexican Grill Inc.
+CB,Switzerland,S&P 500,"Insurance, Financials, Multiline Insurance & Brokers",Chubb Limited
+CHD,United States,S&P 500,"Consumer Non-Cyclicals, Personal & Household Products & Services, Household Products",Church & Dwight Co. Inc.
+CI,United States,S&P 500,"Managed Health care, Healthcare, Healthcare Providers & Services, Healthcare Services",Cigna Corporation
+CINF,United States,S&P 500,"Insurance, Property & Casualty Insurance, Financials",Cincinnati Financial Corporation
+CTAS,United States,"S&P 500, NASDAQ 100","Business Support Services, Industrials, Professional & Commercial Services, Industrial & Commercial Services",Cintas Corporation
+CFG,United States,S&P 500,"Banking & Investment Services, Banking Services, Financials, Banks",Citizens Financial Group Inc.
+CLX,United States,S&P 500,"Consumer Non-Cyclicals, Personal & Household Products & Services, Household Products",The Clorox Company
+CME,United States,S&P 500,"Banking & Investment Services, Investment Banking & Investment Services, Financials, Financial & Commodity Market Operators",CME Group Inc.
+CMS,United States,S&P 500,"Multiline Utilities, Utilities",CMS Energy Corporation
+CMA,United States,S&P 500,"Banking & Investment Services, Banking Services, Financials, Banks",Comerica Inc.
+CAG,United States,S&P 500,"Food & Beverages, Consumer Non-Cyclicals, Food Processing, Food & Tobacco",Conagra Brands Inc.
+ED,United States,S&P 500,"Real Estate, Financials, Hotels & Entertainment Services, Residential & Commercial RETIs, Leisure & Recreation, Cyclical Consumer Services, Residential REITs, Consumer Cyclicals",Consolidated Edison Inc.
+STZ,United States,"S&P 500, NASDAQ 100","Food & Beverages, Consumer Non-Cyclicals, Beverages, Distillers & Wineries",Constellation Brands Inc.
+COO,United States,S&P 500,"Medical Equipment, Supplies & Distribution, Healthcare, Healthcare Services, Healthcare Equipment & Supplies",The Cooper Companies Inc.
+CPRT,United States,"S&P 500, NASDAQ 100","Auto Vehicles, Parts & Service Retailers, Retailers, Specialty Retailers, Consumer Cyclicals",Copart Inc.
+GLW,United States,S&P 500,"Technology, Technology Equipment, Electronic Equipments & Parts",Corning Inc.
+CCI,United States,S&P 500,"Specialized REITs, Real Estate, Financials, Residential & Commercial RETIs",Crown Castle International Corp
+CMI,United States,S&P 500,"Auto, Truck & Motorcycle Parts, Automobiles & Auto Parts, Consumer Cyclicals",Cummins Inc.
+DRI,United States,S&P 500,"Hotels & Entertainment Services, Restaurants & Bars, Cyclical Consumer Services, Consumer Cyclicals",Darden Restaurants Inc.
+DVA,United States,S&P 500,"Healthcare, Healthcare Providers & Services, Healthcare Facilities & Services, Healthcare Services",DaVita Inc.
+DE,United States,S&P 500,"Industrial Goods, Industrials, Heavy Machinery & Vehicles, Machinery, Equipment & Components",Deere & Company
+DAL,United States,S&P 500,"Passenger Transportation Services, Industrials, Airlines, Transportation",Delta Air Lines Inc.
+DVN,United States,S&P 500,"Energy, Fossil Fuels, Oil & Gas, Oil & Gas Exploration and Production",Devon Energy Corporation
+FANG,United States,S&P 500,"Energy, Fossil Fuels, Oil & Gas, Oil & Gas Exploration and Production",Diamondback Energy Inc.
+DLR,United States,S&P 500,"Commercial REITs, Real Estate, Financials, Residential & Commercial RETIs",Digital Realty Trust Inc.
+DFS,United States,S&P 500,"Banking & Investment Services, Banking Services, Financials, Consumer Lending",Discover Financials
+DG,United States,S&P 500,"Diversified Retail, Retailers, Discount Stores, Consumer Cyclicals",Dollar General Corporation
+D,United States,S&P 500,"Electric Utilities, Electric Utilities & IPPs, Utilities",Dominion Energy Inc.
+DOV,United States,S&P 500,"Industrial Goods, Industrials, Machinery, Equipment & Components, Industrial Machinery & Equipment",Dover Corporation
+DHI,United States,S&P 500,"Cyclical Consumer Products, Homebuilding, Homebuilding / Household Goods, Consumer Cyclicals",D.R. Horton Inc.
+DTE,United States,S&P 500,"Electric Utilities, Electric Utilities & IPPs, Utilities",DTE Energy Company
+DXC,United States,S&P 500,"Technology, Software & IT Services, IT Services & Consulting",DXC Technology Company
+EMN,United States,S&P 500,"Commodity Chemicals, Basic Materials, Chemicals",Eastman Chemical Company
+ETN,Ireland,S&P 500,"Industrial Goods, Industrials, Machinery, Equipment & Components, Electrical Components & Equipment",Eaton Corporation PLC
+ECL,United States,S&P 500,"Specialty Chemicals, Basic Materials, Chemicals",Ecolab Inc.
+EIX,United States,S&P 500,"Electric Utilities, Electric Utilities & IPPs, Utilities",Edison International
+EW,United States,S&P 500,"Healthcare, Advanced Medical Equipment & Technology, Healthcare Services, Healthcare Equipment & Supplies",Edwards Lifesciences Corporation
+ETR,United States,S&P 500,"Electric Utilities, Electric Utilities & IPPs, Utilities",Entergy Corporation
+EOG,United States,S&P 500,"Energy, Fossil Fuels, Oil & Gas, Oil & Gas Exploration and Production",EOG Resources Inc.
+EFX,United States,S&P 500,"Professional Information Services, Industrials, Professional & Commercial Services, Industrial & Commercial Services",Equifax Inc.
+EQIX,United States,S&P 500,"Commercial REITs, Real Estate, Financials, Residential & Commercial RETIs",Equinix Inc. (REIT)
+EQR,United States,S&P 500,"Real Estate, Financials, Residential REITs, Residential & Commercial RETIs",Equity Residential
+ESS,United States,S&P 500,"Real Estate, Financials, Residential REITs, Residential & Commercial RETIs",Essex Property Trust Inc.
+RE,Bermuda,S&P 500,"Insurance, Financials, Reinsurance","Everest Re Group, Ltd."
+EVRG,United States,S&P 500,"Electric Utilities, Electric Utilities & IPPs, Utilities",Evergy Inc.
+ES,United States,S&P 500,"Electric Utilities, Electric Utilities & IPPs, Utilities",Eversource Energy
+EXPD,United States,S&P 500,"Industrials, Air Freight & Courier Services, Freight & Logistics Services, Transportation",Expeditors International of Washington Inc.
+EXR,United States,S&P 500,"Specialized REITs, Real Estate, Financials, Residential & Commercial RETIs",Extra Space Storage Inc.
+FFIV,United States,S&P 500,"Technology, Software & IT Services, IT Services & Consulting",F5 Networks Inc.
+FRT,United States,S&P 500,"Commercial REITs, Real Estate, Financials, Residential & Commercial RETIs",Federal Realty Investment Trust
+FIS,United States,S&P 500,"Banking & Investment Services, Investment Banking & Investment Services, Financials, Financial & Commodity Market Operators",Fidelity National Information Services Inc.
+FITB,United States,S&P 500,"Banking & Investment Services, Banking Services, Financials, Banks",Fifth Third Bancorp
+FRC,United States,S&P 500,"Banking & Investment Services, Banking Services, Financials, Banks",First Republic Bank
+FE,United States,S&P 500,"Electric Utilities, Electric Utilities & IPPs, Utilities",FirstEnergy Corp.
+FLT,United States,S&P 500,"Business Support Services, Industrials, Professional & Commercial Services, Industrial & Commercial Services",FleetCor Technologies Inc.
+FMC,United States,S&P 500,"Diversified Chemicals, Basic Materials, Chemicals",FMC Corporation
+FTNT,United States,"S&P 500, NASDAQ 100","Technology, Software & IT Services, IT Services & Consulting",Fortinet Inc.
+FTV,United States,S&P 500,"Industrial Goods, Industrials, Machinery, Equipment & Components, Industrial Machinery & Equipment",Fortive Corporation
+FBHS,United States,S&P 500,"Cyclical Consumer Products, Construction Supplies & Fixtures, Homebuilding / Household Goods, Consumer Cyclicals",Fortune Brands Home & Security Inc.
+FOXA,United States,S&P 500,"Media & Publishing, Cyclical Consumer Services, Broadcasting, Consumer Cyclicals",Fox Corporation
+BEN,United States,S&P 500,"Banking & Investment Services, Investment Banking & Investment Services, Financials, Investment Management & Fund Operators",Franklin Resources Inc.
+FCX,United States,S&P 500,"Metals & Mining, Mineral Resources, Basic Materials, Integrated Mining",Freeport-McMoRan Inc.
+GRMN,Switzerland,S&P 500,"Industrial Goods, Industrials, Aerospace & Defense",Garmin Ltd.
+IT,United States,S&P 500,"Technology, Software & IT Services, IT Services & Consulting",Gartner Inc.
+GIS,United States,S&P 500,"Food & Beverages, Consumer Non-Cyclicals, Food Processing, Food & Tobacco",General Mills Inc.
+GPC,United States,S&P 500,"Auto, Truck & Motorcycle Parts, Automobiles & Auto Parts, Consumer Cyclicals",Genuine Parts Company
+GPN,United States,S&P 500,"Business Support Services, Industrials, Professional & Commercial Services, Industrial & Commercial Services",Global Payments Inc.
+GWW,United States,S&P 500,"Industrials, Real Estate, Real Estate Development & Operations, Industrial Machinery & Equipment, Machinery, Equipment & Components, Real Estate Operations, Industrial Goods, Financials",W.W. Grainger Inc.
+HAL,United States,S&P 500,"Energy, Fossil Fuels, Oil Related Services and Equipment, Oil & Gas Related Equipment and Services",Halliburton Company
+HIG,United States,S&P 500,"Insurance, Financials, Multiline Insurance & Brokers",The Hartford Financials Group Inc.
+HAS,United States,S&P 500,"Cyclical Consumer Products, Leisure Products, Toys & Juvenile Products, Consumer Cyclicals",Hasbro Inc.
+HCA,United States,S&P 500,"Healthcare, Healthcare Providers & Services, Healthcare Facilities & Services, Healthcare Services",HCA Healthcare Inc.
+PEAK,United States,S&P 500,"Real estate investment trust, Specialized REITs, Real Estate, Financials, Residential & Commercial RETIs","Healthpeak Properties, Inc."
+HSY,United States,S&P 500,"Food & Beverages, Consumer Non-Cyclicals, Food Processing, Food & Tobacco",The Hershey Company
+HES,United States,S&P 500,"Energy, Fossil Fuels, Oil & Gas",Hess Corporation
+HPE,United States,S&P 500,"Computers, Phones & Household Electronics, Technology, Technology Equipment, Computer Hardware",Hewlett Packard Enterprise Company
+HLT,United States,S&P 500,"Hotels & Entertainment Services, Cyclical Consumer Services, Hotels, Motels & Cruise Lines, Consumer Cyclicals",Hilton Worldwide Holdings Inc.
+HOLX,United States,S&P 500,"Healthcare, Advanced Medical Equipment & Technology, Healthcare Services, Healthcare Equipment & Supplies",Hologic Inc.
+HRL,United States,S&P 500,"Food & Beverages, Consumer Non-Cyclicals, Food Processing, Food & Tobacco",Hormel Foods Corporation
+HST,United States,S&P 500,"Specialized REITs, Real Estate, Financials, Residential & Commercial RETIs",Host Hotels & Resorts Inc.
+HPQ,United States,S&P 500,"Computers, Phones & Household Electronics, Technology, Technology Equipment, Computer Hardware",HP Inc.
+HUM,United States,S&P 500,"Managed Health care, Healthcare, Healthcare Providers & Services, Healthcare Services",Humana Inc.
+HBAN,United States,S&P 500,"Banking & Investment Services, Banking Services, Financials, Banks",Huntington Bancshares Inc.
+HII,United States,S&P 500,"Industrial Goods, Industrials, Aerospace & Defense",Huntington Ingalls Industries Inc.
+IDXX,United States,"S&P 500, NASDAQ 100","Medical Equipment, Supplies & Distribution, Healthcare, Healthcare Services, Healthcare Equipment & Supplies",IDEXX Laboratories Inc.
+ITW,United States,S&P 500,"Industrials, Industrial Conglomerates",Illinois Tool Works Inc.
+ICE,United States,S&P 500,"Banking & Investment Services, Investment Banking & Investment Services, Financials, Financial & Commodity Market Operators",Intercontinental Exchange Inc.
+IFF,United States,S&P 500,"Energy, Fossil Fuels, Oil & Gas Transportation Services, Oil & Gas Related Equipment and Services",International Flavors & Fragrances Inc.
+IP,United States,S&P 500,"Energy, Fossil Fuels, Oil & Gas Transportation Services, Oil & Gas Related Equipment and Services",International Paper Company
+IPG,United States,S&P 500,"Media & Publishing, Advertising & Marketing, Cyclical Consumer Services, Consumer Cyclicals",The Interpublic Group of Companies Inc.
+IVZ,United States,S&P 500,"Banking & Investment Services, Investment Banking & Investment Services, Financials, Investment Management & Fund Operators",Invesco Ltd.
+IQV,United States,S&P 500,"Biotechnology & Medical Research, Pharmaceuticals & Medical Research, Healthcare",IQVIA Holdings Inc.
+IRM,United States,S&P 500,"Commercial REITs, Real Estate, Financials, Residential & Commercial RETIs",Iron Mountain Inc.
+JBHT,United States,S&P 500,"Ground Freight & Logistics, Industrials, Freight & Logistics Services, Transportation",J.B. Hunt Transport Services Inc.
+JKHY,United States,S&P 500,"Technology, Software & IT Services, IT Services & Consulting",Jack Henry & Associates Inc.
+JEC,United States,S&P 500,"Industrials, Construction & Engineering, Industrial & Commercial Services",Jacobs Engineering Group Inc.
+SJM,United States,S&P 500,"Food & Beverages, Consumer Non-Cyclicals, Food Processing, Food & Tobacco",The J. M. Smucker Company
+JCI,Ireland,S&P 500,"Industrial Goods, Industrials, Machinery, Equipment & Components, Electrical Components & Equipment",Johnson Controls International PLC
+JNPR,United States,S&P 500,"Technology, Technology Equipment, Communications & Networking",Juniper Networks Inc.
+K,United States,S&P 500,"Food & Beverages, Consumer Non-Cyclicals, Food Processing, Food & Tobacco",Kellogg Company
+KEYS,United States,S&P 500,"Industrial Goods, Industrials, Machinery, Equipment & Components, Industrial Machinery & Equipment",Keysight Technologies Inc.
+KMB,United States,S&P 500,"Consumer Non-Cyclicals, Personal Products, Personal & Household Products & Services",Kimberly-Clark Corporation
+KIM,United States,S&P 500,"Commercial REITs, Real Estate, Financials, Residential & Commercial RETIs",Kimco Realty Corporation
+KLAC,United States,"S&P 500, NASDAQ 100","Semiconductor Equipment & Testing, Technology, Technology Equipment, Semiconductors & Semiconductor Equipment",KLA-Tencor Corporation
+KR,United States,S&P 500,"Consumer Non-Cyclicals, Food & Drug Retailing, Food Retail & Distribution",The Kroger Co.
+LH,United States,S&P 500,"Healthcare, Healthcare Providers & Services, Healthcare Facilities & Services, Healthcare Services",Laboratory Corporation of America Holdings
+LW,United States,S&P 500,"Food & Beverages, Consumer Non-Cyclicals, Fishing & Farming, Food & Tobacco",Lamb Weston Holdings Inc.
+EL,United States,S&P 500,Cosmetics,The Estée Lauder Companies Inc.
+LEN,United States,S&P 500,"Cyclical Consumer Products, Homebuilding, Homebuilding / Household Goods, Consumer Cyclicals",Lennar Corporation
+LNC,United States,S&P 500,"Insurance, Financials, Life & Health Insurance",Lincoln National Corporation
+LKQ,United States,S&P 500,"Auto, Truck & Motorcycle Parts, Automobiles & Auto Parts, Consumer Cyclicals",LKQ Corporation
+L,United States,S&P 500,"Insurance, Property & Casualty Insurance, Financials",Loews Corporation
+LYB,United States,S&P 500,"Commodity Chemicals, Basic Materials, Chemicals",LyondellBasell Industries N.V.
+MTB,United States,S&P 500,"Banking & Investment Services, Banking Services, Financials, Banks",M&T Bank Corporation
+MRO,United States,S&P 500,"Energy, Fossil Fuels, Oil & Gas, Oil & Gas Exploration and Production",Marathon Oil Corporation
+MPC,United States,S&P 500,"Energy, Fossil Fuels, Oil & Gas",Marathon Petroleum Corporation
+MMC,United States,S&P 500,"Insurance, Financials, Multiline Insurance & Brokers",Marsh & McLennan Companies Inc.
+MLM,United States,S&P 500,"Construction Materials, Mineral Resources, Basic Materials",Martin Marietta Materials Inc.
+MAS,United States,S&P 500,"Cyclical Consumer Products, Construction Supplies & Fixtures, Homebuilding / Household Goods, Consumer Cyclicals",Masco Corporation
+MKC,United States,S&P 500,"Food & Beverages, Consumer Non-Cyclicals, Food Processing, Food & Tobacco",McCormick & Company Inc.
+MCK,United States,S&P 500,"Consumer Non-Cyclicals, Food & Drug Retailing, Drug Retailers",McKesson Corporation
+MTD,United States,S&P 500,"Industrial Goods, Industrials, Machinery, Equipment & Components, Industrial Machinery & Equipment",Mettler-Toledo International Inc.
+MGM,United States,S&P 500,"Hotels & Entertainment Services, Casinos & Gaming, Cyclical Consumer Services, Consumer Cyclicals",MGM Resorts International
+MAA,United States,S&P 500,"Real Estate, Financials, Residential REITs, Residential & Commercial RETIs",Mid-America Apartment Communities Inc.
+MHK,United States,S&P 500,"Cyclical Consumer Products, Household Goods, Home Furnishings, Consumer Cyclicals",Mohawk Industries Inc.
+MCO,United States,S&P 500,"Professional Information Services, Industrials, Professional & Commercial Services, Industrial & Commercial Services",Moody's Corporation
+MOS,United States,S&P 500,"Agricultural Chemicals, Basic Materials, Chemicals",The Mosaic Company
+MSI,United States,S&P 500,"Technology, Technology Equipment, Communications & Networking",Motorola Solutions Inc.
+MSCI,United States,S&P 500,"Professional Information Services, Industrials, Professional & Commercial Services, Industrial & Commercial Services",MSCI Inc.
+NDAQ,United States,S&P 500,"Banking & Investment Services, Investment Banking & Investment Services, Financials, Financial & Commodity Market Operators",Nasdaq Inc.
+NWL,United States,S&P 500,"Cyclical Consumer Products, Appliances, Tools & Housewares, Household Goods, Consumer Cyclicals",Newell Brands Inc.
+NEM,United States,S&P 500,"Metals & Mining, Mineral Resources, Gold, Basic Materials",Newmont Goldcorp Corporation
+NWSA,United States,S&P 500,"Media & Publishing, Consumer Publishing, Cyclical Consumer Services, Consumer Cyclicals",News Corporation
+NI,United States,S&P 500,"Multiline Utilities, Utilities",NiSource Inc.
+NTRS,United States,S&P 500,"Banking & Investment Services, Investment Banking & Investment Services, Financials, Investment Management & Fund Operators",Northern Trust Corporation
+NCLH,United States,S&P 500,"Hotels & Entertainment Services, Cyclical Consumer Services, Hotels, Motels & Cruise Lines, Consumer Cyclicals",Norwegian Cruise Line Holdings Ltd.
+NRG,United States,S&P 500,"Electric Utilities, Electric Utilities & IPPs, Utilities",NRG Energy Inc.
+NUE,United States,S&P 500,"Metals & Mining, Mineral Resources, Basic Materials, Steel",Nucor Corporation
+OMC,United States,S&P 500,"Media & Publishing, Advertising & Marketing, Cyclical Consumer Services, Consumer Cyclicals",Omnicom Group Inc.
+OKE,United States,S&P 500,"Energy, Fossil Fuels, Oil & Gas Transportation Services, Oil & Gas Related Equipment and Services",ONEOK Inc.
+PKG,United States,S&P 500,"Paper Packaging, Basic Materials, Containers & Packaging, Applied Resources",Packaging Corporation of America
+PH,United States,S&P 500,"Industrial Goods, Industrials, Machinery, Equipment & Components, Industrial Machinery & Equipment",Parker-Hannifin Corporation
+PNR,United Kingdom,S&P 500,"Industrial Goods, Industrials, Machinery, Equipment & Components, Industrial Machinery & Equipment",Pentair PLC
+PKI,United States,S&P 500,"Healthcare, Advanced Medical Equipment & Technology, Healthcare Services, Healthcare Equipment & Supplies",PerkinElmer Inc.
+PSX,United States,S&P 500,"Energy, Fossil Fuels, Oil & Gas",Phillips 66
+PNW,United States,S&P 500,"Electric Utilities, Electric Utilities & IPPs, Utilities",Pinnacle West Capital Corporation
+PXD,United States,S&P 500,"Energy, Fossil Fuels, Oil & Gas, Oil & Gas Exploration and Production",Pioneer Natural Resources Company
+PNC,United States,S&P 500,"Banking & Investment Services, Banking Services, Financials, Banks",The PNC Financials Group Inc.
+PPG,United States,S&P 500,"Commodity Chemicals, Basic Materials, Chemicals",PPG Industries Inc.
+PPL,United States,S&P 500,"Multiline Utilities, Utilities",PPL Corporation
+PGR,United States,S&P 500,"Insurance, Property & Casualty Insurance, Financials",The Progressive Corporation
+PLD,United States,S&P 500,"Commercial REITs, Real Estate, Financials, Residential & Commercial RETIs",Prologis Inc.
+PRU,United States,S&P 500,"Insurance, Financials, Life & Health Insurance",Prudential Financial Inc.
+PEG,United States,S&P 500,"Industrials, Real Estate, Industrial & Commercial Services, Environmental Services & Equipment, Professional & Commercial Services, Financials, Residential & Commercial RETIs, Specialized REITs",Public Service Enterprise Group Inc.
+PSA,United States,S&P 500,"Specialized REITs, Real Estate, Financials, Residential & Commercial RETIs",Public Storage
+PHM,United States,S&P 500,"Cyclical Consumer Products, Homebuilding, Homebuilding / Household Goods, Consumer Cyclicals",PulteGroup Inc.
+QRVO,United States,S&P 500,"Semiconductor Equipment & Testing, Technology, Technology Equipment, Semiconductors & Semiconductor Equipment",Qorvo Inc.
+PWR,United States,S&P 500,"Industrials, Construction & Engineering, Industrial & Commercial Services",Quanta Services Inc.
+DGX,United States,S&P 500,"Healthcare, Healthcare Providers & Services, Healthcare Facilities & Services, Healthcare Services",Quest Diagnostics Inc.
+RL,United States,S&P 500,"Cyclical Consumer Products, Textiles & Apparel, Apparel & Accessories, Consumer Cyclicals",Ralph Lauren Corporation
+RJF,United States,S&P 500,"Banking & Investment Services, Investment Banking & Investment Services, Financials, Investment Banking & Brokerage Services",Raymond James Financial Inc.
+O,United States,S&P 500,"Commercial REITs, Real Estate, Financials, Residential & Commercial RETIs",Realty Income Corporation
+RF,United States,S&P 500,"Banking & Investment Services, Banking Services, Financials, Banks",Regions Financial Corporation
+RSG,United States,S&P 500,"Environmental Services & Equipment, Industrials, Professional & Commercial Services, Industrial & Commercial Services",Republic Services Inc.
+RMD,United States,S&P 500,"Healthcare, Advanced Medical Equipment & Technology, Healthcare Services, Healthcare Equipment & Supplies",ResMed Inc.
+RHI,United States,S&P 500,"Industrials, Professional & Commercial Services, Employment Services, Industrial & Commercial Services",Robert Half International Inc.
+ROK,United States,S&P 500,"Industrial Goods, Industrials, Machinery, Equipment & Components, Electrical Components & Equipment",Rockwell Automation Inc.
+ROL,United States,S&P 500,"Business Support Services, Industrials, Professional & Commercial Services, Industrial & Commercial Services",Rollins Inc.
+ROP,United States,S&P 500,"Industrial Goods, Industrials, Machinery, Equipment & Components, Industrial Machinery & Equipment",Roper Technologies Inc.
+RCL,United States,S&P 500,"Hotels & Entertainment Services, Cyclical Consumer Services, Hotels, Motels & Cruise Lines, Consumer Cyclicals",Royal Caribbean Cruises Ltd.
+SPGI,United States,S&P 500,"Professional Information Services, Industrials, Professional & Commercial Services, Industrial & Commercial Services",S&P Global Inc.
+CRM,United States,"S&P 500, S&P 100, DOW JONES","Technology, Software & IT Services, IT Services & Consulting",salesforce.com Inc.
+SBAC,United States,S&P 500,"Specialized REITs, Real Estate, Financials, Residential & Commercial RETIs",SBA Communications Corporation
+SCHW,United States,"S&P 500, S&P 100",Financials,The Charles Schwab Corporation
+SEE,United States,S&P 500,"Non-Paper Containers & Packaging, Basic Materials, Containers & Packaging, Applied Resources",Sealed Air Corporation
+SRE,United States,S&P 500,"Multiline Utilities, Utilities",Sempra Energy
+SHW,United States,S&P 500,"Commodity Chemicals, Basic Materials, Chemicals",The Sherwin-Williams Company
+SNA,United States,S&P 500,"Software, Technology, Software & IT Services",Snap-on Inc.
+LUV,United States,S&P 500,"Passenger Transportation Services, Industrials, Airlines, Transportation",Southwest Airlines Co.
+SWK,United States,S&P 500,"Industrial Goods, Industrials, Machinery, Equipment & Components, Industrial Machinery & Equipment",Stanley Black & Decker Inc.
+STT,United States,S&P 500,"Banking & Investment Services, Investment Banking & Investment Services, Financials, Investment Management & Fund Operators",State Street Corporation
+SYK,United States,S&P 500,"Medical Equipment, Supplies & Distribution, Healthcare, Healthcare Services, Healthcare Equipment & Supplies",Stryker Corporation
+SIVB,United States,S&P 500,"Banking & Investment Services, Banking Services, Financials, Banks",SVB Financial Group
+SYF,United States,S&P 500,"Banking & Investment Services, Banking Services, Financials, Consumer Lending",Synchrony Financial
+SNPS,United States,"S&P 500, NASDAQ 100","Software, Technology, Software & IT Services",Synopsys Inc.
+SYY,United States,S&P 500,"Consumer Non-Cyclicals, Food & Drug Retailing, Food Retail & Distribution",Sysco Corporation
+TROW,United States,S&P 500,"Banking & Investment Services, Investment Banking & Investment Services, Financials, Investment Management & Fund Operators",T. Rowe Price Group Inc.
+TTWO,United States,S&P 500,"Cyclical Consumer Products, Leisure Products, Toys & Juvenile Products, Consumer Cyclicals",Take-Two Interactive Software Inc.
+TPR,United States,S&P 500,"Retailers, Apparel & Accessories Retailers, Specialty Retailers, Consumer Cyclicals",Tapestry Inc.
+TEL,Switzerland,S&P 500,"Industrial Goods, Industrials, Machinery, Equipment & Components, Electrical Components & Equipment",TE Connectivity Ltd.
+TFX,United States,S&P 500,"Medical Equipment, Supplies & Distribution, Healthcare, Healthcare Services, Healthcare Equipment & Supplies",Teleflex Inc.
+TMO,United States,"S&P 500, S&P 100","Healthcare, Advanced Medical Equipment & Technology, Healthcare Services, Healthcare Equipment & Supplies",Thermo Fisher Scientific Inc.
+TJX,United States,S&P 500,"Diversified Retail, Retailers, Discount Stores, Consumer Cyclicals",The TJX Companies Inc.
+TSN,United States,S&P 500,"Food & Beverages, Consumer Non-Cyclicals, Food Processing, Food & Tobacco",Tyson Foods Inc.
+UDR,United States,S&P 500,"Real Estate, Financials, Residential REITs, Residential & Commercial RETIs",UDR Inc.
+UAL,United States,S&P 500,"Industrial Goods, Industrials, Aerospace & Defense",United Continental Holdings Inc.
+URI,United States,S&P 500,"Business Support Services, Industrials, Professional & Commercial Services, Industrial & Commercial Services",United Rentals Inc.
+UHS,United States,S&P 500,"Healthcare, Healthcare Providers & Services, Healthcare Facilities & Services, Healthcare Services",Universal Health Services Inc.
+VFC,United States,S&P 500,"Cyclical Consumer Products, Textiles & Apparel, Apparel & Accessories, Consumer Cyclicals",V.F. Corporation
+VLO,United States,S&P 500,"Energy, Fossil Fuels, Oil & Gas",Valero Energy Corporation
+VTR,United States,S&P 500,"Specialized REITs, Real Estate, Financials, Residential & Commercial RETIs",Ventas Inc.
+VRSN,United States,"S&P 500, NASDAQ 100","Technology, Software & IT Services, IT Services & Consulting",VeriSign Inc.
+VNO,United States,S&P 500,"Commercial REITs, Real Estate, Financials, Residential & Commercial RETIs",Vornado Realty Trust
+VMC,United States,S&P 500,"Construction Materials, Mineral Resources, Basic Materials",Vulcan Materials Company
+WAB,United States,S&P 500,"Industrial Goods, Industrials, Heavy Machinery & Vehicles, Machinery, Equipment & Components",Wabtec Corporation
+WM,United States,S&P 500,"Environmental Services & Equipment, Industrials, Professional & Commercial Services, Industrial & Commercial Services",Waste Management Inc.
+WAT,United States,S&P 500,"Healthcare, Advanced Medical Equipment & Technology, Healthcare Services, Healthcare Equipment & Supplies",Waters Corporation
+WEC,United States,S&P 500,"Electric Utilities, Electric Utilities & IPPs, Utilities",WEC Energy Group Inc.
+WELL,United States,S&P 500,"Specialized REITs, Real Estate, Financials, Residential & Commercial RETIs",Welltower Inc.
+WRK,United States,S&P 500,"Paper Packaging, Basic Materials, Containers & Packaging, Applied Resources",WestRock Company
+WY,United States,S&P 500,"Specialized REITs, Real Estate, Financials, Residential & Commercial RETIs",Weyerhaeuser Company
+WHR,United States,S&P 500,"Cyclical Consumer Products, Appliances, Tools & Housewares, Household Goods, Consumer Cyclicals",Whirlpool Corporation
+WMB,United States,S&P 500,"Energy, Fossil Fuels, Oil & Gas Transportation Services, Oil & Gas Related Equipment and Services",The Williams Companies Inc.
+WLTW,United Kingdom,S&P 500,"Insurance, Financials, Multiline Insurance & Brokers",WTW Public Limited Company
+WYNN,United States,S&P 500,"Hotels & Entertainment Services, Casinos & Gaming, Cyclical Consumer Services, Consumer Cyclicals","Wynn Resorts, Limited"
+XYL,United States,S&P 500,"Industrial Goods, Industrials, Machinery, Equipment & Components, Industrial Machinery & Equipment",Xylem Inc.
+YUM,United States,S&P 500,"Hotels & Entertainment Services, Restaurants & Bars, Cyclical Consumer Services, Consumer Cyclicals",YUM! Brands Inc.
+ZBH,United States,S&P 500,"Medical Equipment, Supplies & Distribution, Healthcare, Healthcare Services, Healthcare Equipment & Supplies",Zimmer Biomet Holdings Inc.
+ZION,United States,S&P 500,"Banking & Investment Services, Banking Services, Financials, Banks","Zions Bancorporation, National Association"
+ZTS,United States,S&P 500,"Pharmaceuticals, Pharmaceuticals & Medical Research, Healthcare",Zoetis Inc.
+ASML,Netherlands,NASDAQ 100,"Semiconductor Equipment & Testing, Technology, Technology Equipment, Semiconductors & Semiconductor Equipment",ASML Holding N.V.
+CTVA,United States,S&P 500,"Basic Materials, Agricultural Inputs",Corteva Inc.
+LNT,United States,S&P 500,utilities,Alliant Energy Corporation
+AMCR,Switzerland,S&P 500,Packaging,Amcor plc
+BIO,United States,S&P 500,,"Bio-Rad Laboratories, Inc."
+CARR,United States,S&P 500,"Heating, Ventilating, Air Conditioning, HVAC",Carrier Global Corporation
+CTLT,United Kingdom,S&P 500,,"Catalent, Inc."
+CBOE,United States,S&P 500,,"Cboe Global Markets, Inc."
+CDW,United States,S&P 500,IT,CDW Corporation
+DXCM,United States,"S&P 500, NASDAQ 100",,"DexCom, Inc."
+DPZ,United States,S&P 500,"Food delivery, Franchising, Restaurants","Domino's Pizza, Inc."
+DOW,United States,"S&P 500, S&P 100, DOW JONES",Chemicals,Dow Inc.
+ETSY,United States,S&P 500,,"Etsy, Inc."
+GD,United States,"S&P 500, S&P 100","Aerospace, Defense",General Dynamics Corporation
+HWM,United States,S&P 500,,Howmet Aerospace Inc.
+IEX,United States,S&P 500,Manufacturing,IDEX Corporation
+KEY,United States,S&P 500,Financial services,KeyBank
+LHX,United States,S&P 500,"Aerospace, Defense","L3Harris Technologies, Inc."
+LVS,United States,S&P 500,"Hospitality, Tourism",Las Vegas Sands Corporation
+LDOS,United States,S&P 500,"defense, healthcare","Leidos Holdings, Inc."
+LYV,United States,S&P 500,Entertainment,"Live Nation Entertainment, Inc."
+LMT,United States,"S&P 500, S&P 100","Advanced Technologies, Aerospace, Defense",Lockheed Martin Corporation
+LUMN,United States,S&P 500,Telecommunication,"Lumen Technologies, Inc."
+MKTX,United States,S&P 500,,MarketAxess Holdings Inc.
+TAP,United States,S&P 500,"Food & Beverages, Consumer Non-Cyclicals, Brewers, Beverages",Molson Coors Beverage Company
+NOC,United States,S&P 500,Defense industry,Northrop Grumman Corporation
+NVR,United States,S&P 500,Home construction,"NVR, Inc."
+ODFL,United States,"S&P 500, NASDAQ 100",,"Old Dominion Freight Line, Inc."
+OTIS,United States,S&P 500,,Otis Worldwide Corporation
+PAYC,United States,S&P 500,HCM,"Paycom Software, Inc."
+PEP,United States,"S&P 500, S&P 100, NASDAQ 100",Beverages,"PepsiCo, Inc."
+POOL,United States,S&P 500,,Pool Corporation
+PFG,United States,S&P 500,,"Principal Financial Group, Inc."
+REG,United States,S&P 500,Real estate investment trust,Regency Centers Corporation
+NOW,United States,S&P 500,Enterprise software,"ServiceNow, Inc."
+TDY,United States,S&P 500,Conglomerate,Teledyne Technologies Incorporated
+TER,United States,S&P 500,,"Teradyne, Inc."
+TXT,United States,S&P 500,"Aerospace industry, Automotive industry, Defence industry",Textron Inc.
+TT,Ireland,S&P 500,Conglomerate,Trane Technologies plc
+TDG,United States,S&P 500,"Industrial Goods, Industrials, Aerospace & Defense",TransDigm Group
+TFC,United States,S&P 500,"Financial services, Banking & Investment Services, Banking Services, Financials, Banks",Truist Financial Corporation
+TYL,Canada,S&P 500,Software,"Tyler Technologies, Inc."
+VTRS,United States,S&P 500,Pharmaceuticals,Viatris Inc.
+WRB,United States,S&P 500,Insurance,W. R. Berkley Corporation
+WST,United States,S&P 500,Pharmaceuticals,"West Pharmaceutical Services, Inc."
+XEL,United States,"S&P 500, NASDAQ 100",,Xcel Energy Inc.
+ZBRA,United States,S&P 500,Computer hardware,Zebra Technologies Corporation
+TEAM,Australia,NASDAQ 100,Software,Atlassian Corporation Plc
+DOCU,United States,NASDAQ 100,,"DocuSign, Inc."
+KDP,United States,"S&P 500, NASDAQ 100",Beverage,Keurig Dr Pepper Inc.
+LULU,Canada,NASDAQ 100,Retail,lululemon athletica inc.
+MRVL,United States,NASDAQ 100,Semiconductor,Marvell Technology Group Ltd.
+MTCH,United States,"S&P 500, NASDAQ 100",Online dating service,"Match Group, Inc."
+MELI,Argentina,NASDAQ 100,,"Mercado Libre, Inc."
+MRNA,United States,"S&P 500, NASDAQ 100",Biotechnology,"Moderna, Inc."
+OKTA,United States,NASDAQ 100,Software,"Okta, Inc."
+PDD,China,NASDAQ 100,Internet,Pinduoduo Inc.
+SGEN,United States,NASDAQ 100,"Biotechnology, pharmaceutical",Seagen Inc.
+SPLK,United States,NASDAQ 100,,Splunk Inc.
+WDAY,United States,NASDAQ 100,"Cloud computing, Software","Workday, Inc."
+ZM,United States,NASDAQ 100,,"Zoom Video Communications, Inc."
+CZR,United States,S&P 500,"Gaming, hospitality","Caesars Entertainment, Inc."
+CRL,United States,S&P 500,"Pharmaceuticals, Biotechnology, Gene Therapy, Cell Therapy, Medical devices","Charles River Laboratories International, Inc."
+ENPH,United States,S&P 500,"Renewable Energy, Solar Energy, High tech","Enphase Energy, Inc."
+GNRC,United States,S&P 500,Manufacturing,Generac Holdings Inc.
+MPWR,United States,S&P 500,,"Monolithic Power Systems, Inc."
+PTC,United States,S&P 500,"PLM, IOT",PTC Inc.
+TRMB,United States,S&P 500,RFID,Trimble Inc.
+OGN,United Kingdom,S&P 500,,Organon & Co.
+BBWI,United States,S&P 500,Retailing,"Bath & Body Works, Inc."
+CRWD,United States,NASDAQ 100,Information security,"CrowdStrike Holdings, Inc."
+TECH,United States,S&P 500,Biotechnology,Bio-Techne Corporation
+BRO,United States,S&P 500,,"Brown & Brown, Inc."
+CDAY,United States,S&P 500,,Ceridian HCM Holding Inc.
+IR,United States,S&P 500,,Ingersoll Rand Inc.
+CTRA,United States,S&P 500,"Natural gas, Oil",Coterra Energy Inc.
+GL,United States,S&P 500,,Globe Life Field
+NSC,United States,S&P 500,,Norfolk Southern Railway
+ABNB,United States,NASDAQ 100,Lodging,"Airbnb, Inc."
+DDOG,United States,NASDAQ 100,System Monitoring,"Datadog, Inc."
+PANW,United States,NASDAQ 100,Cybersecurity,"Palo Alto Networks, Inc."
+ZS,United States,NASDAQ 100,"Network security, computer security, Internet security","Zscaler, Inc."
+CPT,United States,S&P 500,Real estate investment trust,Camden Property Trust
+EPAM,United States,S&P 500,Software engineering,"EPAM Systems, Inc."
+FDS,United States,S&P 500,"Financial services, Technology",FactSet Research Systems Inc.
+MOH,United States,S&P 500,Healthcare,"Molina Healthcare, Inc."
+NDSN,United States,S&P 500,,Nordson Corporation
+PARA,United States,S&P 500,"Media, Entertainment",Paramount Global
+SBNY,United States,S&P 500,,Signature Bank
+SEDG,Israel,S&P 500,Photovoltaics,"SolarEdge Technologies, Inc."
+WBD,United States,S&P 500,"Media, Entertainment","Warner Bros. Discovery, Inc."
+ADTN,United States,S&P 600,,"ADTRAN, Inc."
+CSGP,United States,S&P 500,"Technology, Commercial property","CoStar Group, Inc."
+ELV,India,S&P 500,Managed healthcare,"Elevance Health, Inc."
+EQT,United States,S&P 500,Petroleum industry,EQT Corporation
+INVH,United States,S&P 500,Real estate investment trust,Invitation Homes Inc.
+ON,United States,S&P 500,Semiconductors,ON Semiconductor Corporation
+PCG,United States,S&P 500,"Electricity, Natural gas",PG&E Corporation
+TRGP,United States,S&P 500,,Targa Resources Corp.
+VICI,United States,S&P 500,Real estate investment trust,Vici Properties Inc.
+ACGL,Bermuda,S&P 500,"Insurance, Finance",Arch Capital Group Ltd.
+META,United States,"S&P 500, S&P 100, NASDAQ 100","Social media, Social network advertising, Consumer electronics, Virtual reality","Meta Platforms, Inc."
+GEN,United States,S&P 500,Computer software,Gen Digital Inc.
+LCID,United States,NASDAQ 100,Automobiles,Lucid Motors
