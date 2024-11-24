@@ -8,7 +8,7 @@ data.dropna(subset=['Treynor Ratio', "Jensen's Alpha", 'Information Ratio', 'Sec
 top_three_returns = data.nlargest(3, 'Annual Return')
 remaining_data = data.drop(top_three_returns.index)
 
-# Select the top 2 stocks in each sector based on the Treynor Ratio
+# Select the top 5 stocks in each sector based on the Treynor Ratio
 top_treynor_per_sector = remaining_data.groupby('Sector').apply(
     lambda df: df.nlargest(5, 'Treynor Ratio')
 ).reset_index(drop=True)
